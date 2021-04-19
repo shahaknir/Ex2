@@ -1,3 +1,6 @@
+# OOP_Ex2_Pokemon
+Pokemon JAVA Project by Amit cohen, Shahak Nir
+
 Background:
 This next file will explain the purpose of this assignment.
 This assignment is a Pokémon game that is implements by a graph and agents chasing Pokémon.
